@@ -1,0 +1,12 @@
+Git Bash Here (na pasta que está os arquivos que quer subir) 
+comando: ls > entre
+comando: git status > enter
+comando: git commit -m "insira um comentario" > enter
+comando: git add . > enter
+comando: git push origin main
+
+git checkout -b main
+
+git branch -m main <BRANCH>
+git fetch origin
+git branch -u origin/<BRANCH> <BRANCH> 
